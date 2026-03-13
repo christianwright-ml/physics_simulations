@@ -29,6 +29,15 @@ The simple pendulum is a classic system in physics, consisting of a mass suspend
 
 ---
 
+## Visualization
+
+Here is a sample animation of the pendulum motion:
+
+![Pendulum Simulation](pendulum_simulation.gif)  
+*Oscillatory motion of a simple pendulum based on derived equations of motion.*
+
+---
+
 ## Features
 
 - Computes angular displacement and velocity over time  
